@@ -9,6 +9,7 @@ The ADDOn of this script is that you can get the output in HTML file.
 #1 ofcourse Python...
 #2 pip install requests
 #3 pip install bs4
+#4 pip install lxml
 
 # output will be in html format, Recommended to save file in html format
 

@@ -16,7 +16,4 @@ The ADDOn of this script is that you can get the output in HTML file.
 #if you like my work then please connnect me on linked in @https://www.linkedin.com/in/rishabh-bhardwaj-791903171/
 Or simply Mail me At rishabh.bhardwaj33@gmail.com
 
-# My website/blog at http://www.knoobypie.com/
 # folow me on linkedin : https://www.linkedin.com/in/rishabh-bhardwaj-791903171/
-# github :  https://github.com/rishabh3354
-# Mail me:  rishabh.bhardwaj33@gmail.com

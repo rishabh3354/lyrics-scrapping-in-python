@@ -2,9 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import sys
 
-query = sys.argv[1:]
-query_str = " ".join(query)
 
+query_str = "alan walker"
 url = "https://search.azlyrics.com/search.php?q=" + query_str
 
 headers = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'}
